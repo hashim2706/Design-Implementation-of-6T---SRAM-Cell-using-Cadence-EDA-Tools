@@ -91,6 +91,8 @@ ii)	Create Schematic Cell view.
 ![Screenshot (59)](https://github.com/user-attachments/assets/cee77b81-1924-406c-949a-ea6cb24b1b96)
 
 ### For Transient Analysis Settings and Output:
+
+
 ![Screenshot (60)](https://github.com/user-attachments/assets/eb9e8e69-b000-4153-80dc-e3b3bee22f19)
 
 
